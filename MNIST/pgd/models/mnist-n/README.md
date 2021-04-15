@@ -1,0 +1,1 @@
+mnist natural model
